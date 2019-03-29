@@ -1,0 +1,12 @@
+<h1>Home</h1>
+{{#each activities}}
+<p>Steps {{steps}}</p>
+{{/each}}
+
+{{#each summary.distances}}
+{{!-- {{#each distances}} --}}
+<p>{{activity}} , distance: {{distance}}</p>
+{{!-- {{/each}} --}}
+{{/each}}
+
+<a  href="/distances">Distances</a>
