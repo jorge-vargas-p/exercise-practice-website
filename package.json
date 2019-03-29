@@ -1,0 +1,24 @@
+{
+  "name": "exercisses",
+  "version": "1.0.0",
+  "description": "exercise-practice-website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge-vargas-p/exercise-practice-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorge-vargas-p/exercise-practice-website/issues"
+  },
+  "homepage": "https://github.com/jorge-vargas-p/exercise-practice-website#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2"
+  }
+}
