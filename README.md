@@ -1,2 +1,2 @@
-# exercise-practice-website
+# Exercise-practice-website
 exercise-practice-website
